@@ -1,0 +1,146 @@
+"Notes"	"County"	"County Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"Adams County, OH"	"39001"	545	137915	395.2	362.0	428.3
+	"Allen County, OH"	"39003"	2022	509779	396.6	379.4	413.9
+	"Ashland County, OH"	"39005"	1045	265088	394.2	370.3	418.1
+	"Ashtabula County, OH"	"39007"	2096	485598	431.6	413.2	450.1
+	"Athens County, OH"	"39009"	792	317661	249.3	232.0	266.7
+	"Auglaize County, OH"	"39011"	932	229229	406.6	380.5	432.7
+	"Belmont County, OH"	"39013"	1545	331801	465.6	442.4	488.9
+	"Brown County, OH"	"39015"	862	217790	395.8	369.4	422.2
+	"Butler County, OH"	"39017"	5315	1929814	275.4	268.0	282.8
+	"Carroll County, OH"	"39019"	569	134242	423.9	389.0	458.7
+	"Champaign County, OH"	"39021"	640	194007	329.9	304.3	355.4
+	"Clark County, OH"	"39023"	3012	672725	447.7	431.7	463.7
+	"Clermont County, OH"	"39025"	3044	1039790	292.8	282.4	303.2
+	"Clinton County, OH"	"39027"	783	209914	373.0	346.9	399.1
+	"Columbiana County, OH"	"39029"	2098	507487	413.4	395.7	431.1
+	"Coshocton County, OH"	"39031"	681	182867	372.4	344.4	400.4
+	"Crawford County, OH"	"39033"	920	207658	443.0	414.4	471.7
+	"Cuyahoga County, OH"	"39035"	23507	6192240	379.6	374.8	384.5
+	"Darke County, OH"	"39037"	1029	256767	400.8	376.3	425.2
+	"Defiance County, OH"	"39039"	645	190361	338.8	312.7	365.0
+	"Delaware County, OH"	"39041"	2061	1074593	191.8	183.5	200.1
+	"Erie County, OH"	"39043"	1586	371953	426.4	405.4	447.4
+	"Fairfield County, OH"	"39045"	2201	797027	276.2	264.6	287.7
+	"Fayette County, OH"	"39047"	615	143515	428.5	394.7	462.4
+	"Franklin County, OH"	"39049"	14823	6594914	224.8	221.1	228.4
+	"Fulton County, OH"	"39051"	676	210912	320.5	296.4	344.7
+	"Gallia County, OH"	"39053"	604	147905	408.4	375.8	440.9
+	"Geauga County, OH"	"39055"	1387	471985	293.9	278.4	309.3
+	"Greene County, OH"	"39057"	2689	843922	318.6	306.6	330.7
+	"Guernsey County, OH"	"39059"	832	193061	431.0	401.7	460.2
+	"Hamilton County, OH"	"39061"	12346	4103318	300.9	295.6	306.2
+	"Hancock County, OH"	"39063"	1082	376637	287.3	270.2	304.4
+	"Hardin County, OH"	"39065"	530	155351	341.2	312.1	370.2
+	"Harrison County, OH"	"39067"	360	74083	485.9	435.7	536.1
+	"Henry County, OH"	"39069"	482	136046	354.3	322.7	385.9
+	"Highland County, OH"	"39071"	799	216268	369.4	343.8	395.1
+	"Hocking County, OH"	"39073"	555	140699	394.5	361.6	427.3
+	"Holmes County, OH"	"39075"	602	220517	273.0	251.2	294.8
+	"Huron County, OH"	"39077"	1012	291334	347.4	326.0	368.8
+	"Jackson County, OH"	"39079"	637	162387	392.3	361.8	422.7
+	"Jefferson County, OH"	"39081"	1637	325150	503.5	479.1	527.8
+	"Knox County, OH"	"39083"	1108	312718	354.3	333.5	375.2
+	"Lake County, OH"	"39085"	4342	1154097	376.2	365.0	387.4
+	"Lawrence County, OH"	"39087"	1226	292518	419.1	395.7	442.6
+	"Licking County, OH"	"39089"	2575	892491	288.5	277.4	299.7
+	"Logan County, OH"	"39091"	866	228431	379.1	353.9	404.4
+	"Lorain County, OH"	"39093"	4906	1563329	313.8	305.0	322.6
+	"Lucas County, OH"	"39095"	7778	2142375	363.1	355.0	371.1
+	"Madison County, OH"	"39097"	638	221629	287.9	265.5	310.2
+	"Mahoning County, OH"	"39099"	5411	1136798	476.0	463.3	488.7
+	"Marion County, OH"	"39101"	1228	325102	377.7	356.6	398.9
+	"Medina County, OH"	"39103"	2522	906408	278.2	267.4	289.1
+	"Meigs County, OH"	"39105"	521	112709	462.3	422.6	501.9
+	"Mercer County, OH"	"39107"	959	208062	460.9	431.7	490.1
+	"Miami County, OH"	"39109"	2259	540236	418.2	400.9	435.4
+	"Monroe County, OH"	"39111"	303	67593	448.3	397.8	498.7
+	"Montgomery County, OH"	"39113"	10535	2665360	395.3	387.7	402.8
+	"Morgan County, OH"	"39115"	282	70767	398.5	352.0	445.0
+	"Morrow County, OH"	"39117"	547	176341	310.2	284.2	336.2
+	"Muskingum County, OH"	"39119"	1432	430939	332.3	315.1	349.5
+	"Noble County, OH"	"39121"	216	71653	301.5	261.3	341.7
+	"Ottawa County, OH"	"39123"	856	201629	424.5	396.1	453.0
+	"Paulding County, OH"	"39125"	290	93708	309.5	273.9	345.1
+	"Perry County, OH"	"39127"	624	179322	348.0	320.7	375.3
+	"Pickaway County, OH"	"39129"	961	294557	326.3	305.6	346.9
+	"Pike County, OH"	"39131"	558	137628	405.4	371.8	439.1
+	"Portage County, OH"	"39133"	2612	812103	321.6	309.3	334.0
+	"Preble County, OH"	"39135"	917	204178	449.1	420.0	478.2
+	"Putnam County, OH"	"39137"	545	169947	320.7	293.8	347.6
+	"Richland County, OH"	"39139"	2513	613658	409.5	393.5	425.5
+	"Ross County, OH"	"39141"	1336	383514	348.4	329.7	367.0
+	"Sandusky County, OH"	"39143"	1088	293050	371.3	349.2	393.3
+	"Scioto County, OH"	"39145"	1658	370703	447.3	425.7	468.8
+	"Seneca County, OH"	"39147"	1176	274861	427.9	403.4	452.3
+	"Shelby County, OH"	"39149"	831	241202	344.5	321.1	367.9
+	"Stark County, OH"	"39151"	6580	1858443	354.1	345.5	362.6
+	"Summit County, OH"	"39153"	9449	2695312	350.6	343.5	357.6
+	"Trumbull County, OH"	"39155"	4638	995379	466.0	452.5	479.4
+	"Tuscarawas County, OH"	"39157"	1754	460376	381.0	363.2	398.8
+	"Union County, OH"	"39159"	665	308713	215.4	199.0	231.8
+	"Van Wert County, OH"	"39161"	499	142216	350.9	320.1	381.7
+	"Vinton County, OH"	"39163"	228	64457	353.7	307.8	399.6
+	"Warren County, OH"	"39165"	3011	1201518	250.6	241.6	259.6
+	"Washington County, OH"	"39167"	1064	298042	357.0	335.5	378.4
+	"Wayne County, OH"	"39169"	1909	580640	328.8	314.0	343.5
+	"Williams County, OH"	"39171"	653	183429	356.0	328.7	383.3
+	"Wood County, OH"	"39173"	1965	656690	299.2	286.0	312.5
+	"Wyandot County, OH"	"39175"	420	108693	386.4	349.5	423.4
+"Total"			198052	58607834	337.9	336.4	339.4
+"---"
+"Dataset: Underlying Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"ICD-10 Codes: I00-I99 (Diseases of the circulatory system)"
+"States: Ohio (39)"
+"Year/Month: 2018; 2019; 2020; 2021; 2022"
+"Group By: County"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Oct 11, 2026 8:57:00 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Oct 11, 2026 8:57:00 PM"
+"---"
+Caveats:
+"1. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Confidence-Intervals."
+"2. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for years 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
+"4. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."

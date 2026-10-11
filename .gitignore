@@ -1,0 +1,22 @@
+# Python virtual environment (rebuildable from requirements)
+.venv/
+
+# Python / Jupyter caches
+__pycache__/
+.ipynb_checkpoints/
+
+# Large data: download separately (see data/README.md)
+data/large/
+
+# Safety net: large geospatial formats anywhere in the project
+*.tif
+*.tiff
+*.nc
+*.gdb/
+*.zip
+
+# OS and Office clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*

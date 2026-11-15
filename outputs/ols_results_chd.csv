@@ -1,0 +1,6 @@
+,PR,CI_low,CI_high,p
+Primary (>=50 dBA),1.002,0.998,1.005,0.304
+Unadjusted (>=50 dBA),0.992,0.973,1.012,0.433
+Secondary: >=45 dBA,1.001,0.999,1.002,0.223
+Secondary: >=55 dBA,1.003,0.989,1.018,0.642
+Sens: population-weighted,1.001,0.991,1.011,0.867

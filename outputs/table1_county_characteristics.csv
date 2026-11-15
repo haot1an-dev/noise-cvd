@@ -1,0 +1,13 @@
+Characteristic,Median,IQR,Range
+"CVD deaths, 2018–2022",1037.0,638 to 2124,216 to 23507
+Expected CVD deaths,972.0,626 to 2123,195 to 23149
+Standardized mortality ratio,1.03,0.94 to 1.15,0.62 to 1.38
+Residents at ≥45 dBA (%),15.4,9.1 to 25.6,4.1 to 54.6
+Residents at ≥50 dBA (%),5.7,4.5 to 10.8,2.1 to 24.2
+Residents at ≥55 dBA (%),2.0,1.4 to 3.2,0.3 to 7.7
+Urban population (%),44.6,28.4 to 66.8,0.0 to 99.4
+Below poverty (%),12.9,10.1 to 16.1,4.5 to 24.4
+Non-Hispanic Black (%),1.9,0.9 to 4.5,0.1 to 28.7
+"Current smoking, age-adjusted (%)",17.6,15.6 to 19.4,9.9 to 23.3
+"PM2.5, 2018–2022 mean (µg/m³)",7.41,7.17 to 7.80,6.27 to 9.30
+"CHD prevalence, age-adjusted (%)",6.2,5.7 to 6.6,4.4 to 7.7

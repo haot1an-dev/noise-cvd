@@ -72,7 +72,6 @@ The data inventory (`Noise_CVD_Data_Inventory.xlsx`) lists every source consider
    ```bash
    python -m venv .venv
    source .venv/Scripts/activate      # Windows Git Bash; on macOS/Linux: source .venv/bin/activate
-   pip install -r requirements.txt
    ```
 2. **Get a Census API key** (free) at <https://api.census.gov/data/key_signup.html> and put it in a file named `.env` in the project folder:
    ```
